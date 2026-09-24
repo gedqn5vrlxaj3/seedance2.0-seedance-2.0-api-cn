@@ -2,7 +2,7 @@
 
 > 按量计费，$1 起充，OpenAI 兼容接口。 **480P-input $0.04; 480P $0.066; 720P-input $0.0858**
 
-**[模型页](https://apimart.ai/model) · [实时价格](https://apimart.ai/pricing) · [获取 API Key](https://apimart.ai/keys)**
+**[模型页](https://go.apimart.ai/k-eb3ac5) · [实时价格](https://go.apimart.ai/k-a43729) · [获取 API Key](https://go.apimart.ai/k-ee41d3)**
 
 ## 价格（快照 2026-09-24）
 
